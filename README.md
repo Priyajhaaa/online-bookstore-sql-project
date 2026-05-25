@@ -75,8 +75,6 @@ Online-Bookstore-SQL-Project/
 ├── SQL Queries.sql
 │
 ├── ## SQL Queries File
-
-[View SQL Queries](‪C:\Users\acer\OneDrive\Documents\SQL Onlinebookstore End To End Project Queries.sq)
 │
 └── README.md
 
@@ -103,3 +101,14 @@ Through this project, I improved my understanding of:
 ## Author
 Priya Jha
 Aspiring Data Analyst
+
+
+
+Online-Bookstore-SQL-Project
+│
+├── queries/
+│   └── online_bookstore_queries.sql
+│
+└── README.md
+
+[View SQL Queries](./queries/online_bookstore_queries.sql)
