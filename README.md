@@ -102,11 +102,3 @@ Through this project, I improved my understanding of:
 Priya Jha
 Aspiring Data Analyst
 
-Online-Bookstore-SQL-Project
-│
-├── SQL_queries/
-│   └── online_bookstore_queries.sql
-│
-└── README.md
-
-[View SQL Queries](./SQL_queries/online_bookstore_queries.sql)
