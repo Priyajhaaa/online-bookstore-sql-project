@@ -109,4 +109,4 @@ Online-Bookstore-SQL-Project
 │
 └── README.md
 
-[View SQL Queries](./SQL_queries.sql)
+[View SQL Queries](./SQL_queries/online_bookstore_queries.sql)
